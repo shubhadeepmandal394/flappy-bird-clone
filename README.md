@@ -11,13 +11,15 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 
 - To download the game's apk [click here](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk)
 
-#### Play the Game Online
+#### Where to Play the Game ?
 
-- To play the game online [click here](https://appetize.io/app/et8dzz636bybjbavyxkk9h932r?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
+1. To play the game on online emulator [click here](https://appetize.io/app/et8dzz636bybjbavyxkk9h932r?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
 
-#### Play the Game Offline
+2. To play the game on offline emulator, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the game and will become availabe to you for playing in no time.
 
-- To play the game in offline, try running it on [Android Emulators](https://developer.android.com/studio/run/emulator) (such as that provided with Android Studio), just [download the apk](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk) and simply drag the apk and drop it in the emulator, it will automatically install the game and will become availabe to you for playing in no time.
+3. To play the game on your physical android device, simply [download the apk](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk) and install it.
+
+**NOTE: *For better experience install the game on your physical android device.***
 
 ### Requirements
 
