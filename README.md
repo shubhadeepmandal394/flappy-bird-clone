@@ -1,6 +1,6 @@
 # Flappy Bird (Clone)
 
-<a><img src="https://github.com/shubhadeepmandal394/flappy-bird-clone/blob/main/assets/img/flappybirdicon.png" height="200" weidth="200"></a>
+<a><img src="https://github.com/shubhadeepmandal394/flappy-bird-clone/blob/master/assets/img/flappybirdicon.png" height="200" weidth="200"></a>
 
 Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal.
 
