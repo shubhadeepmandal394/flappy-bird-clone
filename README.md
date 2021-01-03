@@ -1,12 +1,12 @@
 # Flappy Bird (Clone)
 
-<a><img src="https://github.com/shubhadeepmandal394/flappy-bird-clone/blob/master/assets/img/flappybirdicon.png" height="200" weidth="200"></a>
+<a><img src="https://github.com/shubhadeepmandal394/flappy-bird-clone/blob/main/assets/img/flappybirdicon.png" height="200" weidth="200"></a>
 
-Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal.
+Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal. Its
 
 ### Setting up the Application
 
-You can setup the application by downloading and then running the application in your physical android device or on online/offline android emulators.
+You can setup the game by downloading and then running the application in your physical android device or on online/offline android emulators.
 
 ```
 Preferred Resolution : 1080 x 2160: 440dpi
@@ -37,13 +37,13 @@ You can run the application in BrowserStack. BrowserStack is a cloud web and mob
 
 ### Screenshots
 
-The screenshots are taken on **Xaomi Redmi Note 5 Pro** on **11th December, 2020** at around **18:20 hrs**.
+The screenshots are taken on **Xaomi Redmi Note 5 Pro**.
 
 <table>
   <tr>
-    <td><img src="/assets/img/screenshot_new_delhi.jpg" height="500" weidth="1000"></td>
-    <td><img src="/assets/img/screenshot_washington_dc.jpg" height="500" weidth="1000"></td>
-    <td><img src="/assets/img/screenshot_new_york.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screen1.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screen2.jpg" height="500" weidth="1000"></td>
+    <td><img src="/assets/img/screen3.jpg" height="500" weidth="1000"></td>
   </tr>
  </table>
 
