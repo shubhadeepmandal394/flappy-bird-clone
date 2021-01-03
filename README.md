@@ -7,7 +7,7 @@ Flappy Bird (Clone) is an android mobile game developed using libGDX (open-sourc
 You can setup the game by downloading and then running it on your physical android device or on online/offline android emulators.
 Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffered one may cause some onscreen components to misbehave.
 
-### Where to Play the Game ?
+#### Where to Play the Game ?
 
 1. To play the game on online emulator [click here](https://appetize.io/app/et8dzz636bybjbavyxkk9h932r?device=pixel4&scale=75&orientation=portrait&osVersion=10.0)
 
@@ -18,11 +18,11 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 **NOTE: *For better experience install the game on your physical android device.***
 
 
-### Download the APK
+#### Download the APK
 
 - To download the game's apk [click here](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk)
 
-### Requirements
+#### Requirements
 
 - JDK 8
 - Latest Android SDK tools
@@ -30,7 +30,7 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 - Android SDK 21 or newer
 - AndroidX
 
-### Screenshots
+#### Screenshots
 
 The screenshots are taken on **Xaomi Redmi Note 5 Pro**.
 
