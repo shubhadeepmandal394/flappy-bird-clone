@@ -2,7 +2,7 @@
 
 <a><img src="https://github.com/shubhadeepmandal394/flappy-bird-clone/blob/master/assets/img/flappybirdicon.png" height="200" weidth="200"></a>
 
-Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal. Its has just the basic functionalities of the original game.
+Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal. Its has just the basic functionalities of the [original game](https://flappybird.io/). 
 
 You can setup the game by downloading and then running the application in your physical android device or on online/offline android emulators. 
 Preferred Resolution is ```1080 x 2160: 440dpi```. Resolutions other than the preffered one may cause some onscreen components to misbehave.
