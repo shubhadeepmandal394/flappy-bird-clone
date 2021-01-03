@@ -4,7 +4,7 @@
 
 Flappy Bird (Clone) is an android mobile game developed using libGDX (open-source game-development application framework) by Shubhadeep Mandal. Its
 
-### Setting up the Application
+### Setting up the Game
 
 You can setup the game by downloading and then running the application in your physical android device or on online/offline android emulators.
 
@@ -12,13 +12,13 @@ You can setup the game by downloading and then running the application in your p
 Preferred Resolution : 1080 x 2160: 440dpi
 ```
 
-#### Download the Application
+#### Download the Game
 
 - To download the application [click here](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk)
 
-#### Run the Application on a Online Simulator
+#### Run the Game on a Online Simulator
 
-You can run the application in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
+You can run the game in BrowserStack. BrowserStack is a cloud web and mobile testing platform that allows the users to run live mobiles apps on it.
 
 - How To Use Browser Stack ?
   - Go to the official site of [Browser Stacks](https://www.browserstack.com/users/sign_in).
