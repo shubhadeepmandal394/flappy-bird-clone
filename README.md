@@ -18,7 +18,7 @@ Preferred Resolution is `1080 x 2160: 440dpi`. Resolutions other than the preffe
 **NOTE: *For better experience install the game on your physical android device.***
 
 
-### Download the apk
+### Download the APK
 
 - To download the game's apk [click here](https://github.com/shubhadeepmandal394/flappy-bird-clone/raw/master/assets/apk/flappybird-v1.0.apk)
 
